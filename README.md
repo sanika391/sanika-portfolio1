@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm Sanika Chavan, a passionate **Computer Science
 - **AWS User Group Event Speaker**
   - Delivered a session titled **"Seeds of Success: How I Grew into a DevOps"** at the AWS User Group Women in Tech Nepal event.
 
----
-
 ## 🔧 Skills
 
 ### Languages
@@ -62,7 +60,20 @@ Welcome to my GitHub profile! I'm Sanika Chavan, a passionate **Computer Science
 - **Microsoft Learn Student Ambassador - Beta**
 - **Japanese Language Proficiency - N5**
 
----
+## 🖼️ Website Sections
+
+### Homepage
+![{69A2C8DA-F51F-4989-9A44-2EC065892FF2}](https://github.com/user-attachments/assets/cdf1352a-1590-4311-9e43-7e6f2d8a1e7f)
+
+### About Me
+![{828FC8BB-F5FF-4E7D-896B-50142E6212F4}](https://github.com/user-attachments/assets/47a33fce-4af3-4d59-a44a-9a35025ef885)
+
+### Experience
+![{E67F6C4F-A75C-4F30-A723-352E3C91EB64}](https://github.com/user-attachments/assets/08f4c224-f2aa-4bf7-8209-ae909b4f0c47)
+
+### Projects
+![{B754B90A-EDA0-47FB-9316-17923C72A20F}](https://github.com/user-attachments/assets/29960960-48f7-4030-b8f8-ba7695dd3295)
+
 
 ## 📢 Community & Leadership Roles
 
